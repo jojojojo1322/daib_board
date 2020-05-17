@@ -1,2 +1,5 @@
 # daib_board
-daib_board front  / react + redux
+daib_board front  / react 
+
+JWT - LOCALSTORAGE
+
