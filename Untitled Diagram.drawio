@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-14T08:54:31.158Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="aj6Al7a1bIAS2c0qjncz" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-14T08:59:25.091Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="_sft6Gs5dl0TbtFZIEj_" version="16.2.6" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="3159.5" dy="1001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3077.5" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -685,6 +685,67 @@
         </mxCell>
         <mxCell id="2zvDSiaRfBO-3n8Pwa8q-252" value="갤러리 정보" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#10739E;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=1;gradientColor=none;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="3340" y="650" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2zvDSiaRfBO-3n8Pwa8q-261" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;" edge="1" parent="1" source="2zvDSiaRfBO-3n8Pwa8q-259" target="2zvDSiaRfBO-3n8Pwa8q-260">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2zvDSiaRfBO-3n8Pwa8q-259" value="상품" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-1050" y="1670" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2zvDSiaRfBO-3n8Pwa8q-263" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;" edge="1" parent="1" source="2zvDSiaRfBO-3n8Pwa8q-260" target="2zvDSiaRfBO-3n8Pwa8q-262">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2zvDSiaRfBO-3n8Pwa8q-265" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2zvDSiaRfBO-3n8Pwa8q-271" target="2zvDSiaRfBO-3n8Pwa8q-264">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-860" y="1810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2zvDSiaRfBO-3n8Pwa8q-272" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;" edge="1" parent="1" source="2zvDSiaRfBO-3n8Pwa8q-260" target="2zvDSiaRfBO-3n8Pwa8q-271">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2zvDSiaRfBO-3n8Pwa8q-260" value="보증서 여부" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#10739E;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=1;gradientColor=none;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-876.5" y="1650" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2zvDSiaRfBO-3n8Pwa8q-268" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;" edge="1" parent="1" source="2zvDSiaRfBO-3n8Pwa8q-262" target="2zvDSiaRfBO-3n8Pwa8q-267">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2zvDSiaRfBO-3n8Pwa8q-270" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;" edge="1" parent="1" source="2zvDSiaRfBO-3n8Pwa8q-262" target="2zvDSiaRfBO-3n8Pwa8q-269">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-615" y="1580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2zvDSiaRfBO-3n8Pwa8q-262" value="NFT 여부" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#10739E;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=1;gradientColor=none;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-665" y="1645" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2zvDSiaRfBO-3n8Pwa8q-264" value="보증서 x NFT x 갤러리 x" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#10739E;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=1;gradientColor=none;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="1780" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2zvDSiaRfBO-3n8Pwa8q-267" value="보증서 o NFT x" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#10739E;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=1;gradientColor=none;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="1660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2zvDSiaRfBO-3n8Pwa8q-269" value="보증서 o NFT O" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#10739E;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=1;gradientColor=none;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="1550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2zvDSiaRfBO-3n8Pwa8q-275" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-817.5" y="1872" as="sourcePoint" />
+            <mxPoint x="-260" y="1892.9411764705883" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-817" y="1902" />
+              <mxPoint x="-515" y="1902" />
+              <mxPoint x="-515" y="1893" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2zvDSiaRfBO-3n8Pwa8q-271" value="갤러리 인증 여부" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#10739E;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=1;gradientColor=none;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-865" y="1770" width="95" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2zvDSiaRfBO-3n8Pwa8q-274" value="&lt;span&gt;보증서 x NFT x 갤러리 o&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#10739E;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=1;gradientColor=none;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="1861" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
